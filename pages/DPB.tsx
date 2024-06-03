@@ -28,7 +28,7 @@ const DPB = () => {
                                 resource to understand the foundational principles of data protection.
                             </p>
                         </div>
-                        <a className="font-bold text-primary" href="/assets/legal/data protection basics.pdf">
+                        <a className="font-bold text-primary" href="/assets/legal/Data Protection Basics.pdf">
                             {' '}
                             <em>Data Protection Basics: Full Guidance Note</em>{' '}
                         </a>

@@ -26,7 +26,7 @@ const forOrg = () => {
                         {/* First Child Div with Responsive Grid and 70% width */}
                         <div className="mb-10 grid w-full grid-cols-1 gap-0 md:w-[70%] md:auto-rows-auto md:grid-cols-2 lg:w-[70%] lg:grid-cols-2">
                             <div className="flex flex-row p-5">
-                                <a href="/DPB" className="group flex h-[110%] w-full border-b-2 border-dotted border-gray/30">
+                                <a href="/DPB" className="group flex h-[100%] w-full border-b-2 border-dotted border-gray/30">
                                     <div className="flex w-full flex-row items-start justify-between">
                                         <div className="flex h-12 w-12 items-center justify-center rounded-full bg-black transition duration-300 group-hover:rotate-180 group-hover:ease-in-out">
                                             <FaArrowRight style={{ color: 'white', fontSize: '18px' }} />
@@ -34,7 +34,7 @@ const forOrg = () => {
                                         <div className="flex w-[80%] flex-col">
                                             <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black">Data Protection Basics</h2>
                                             <p className="text-justify text-black">
-                                                Data Protection Basics: is a comprehensive guide aimed at demystifying the essentials of data protection.
+                                            Data Protection Basics: is a comprehensive guide aimed at demystifying the essentials of data protection.
                                             </p>
                                         </div>
                                     </div>
@@ -50,7 +50,7 @@ const forOrg = () => {
                                         <div className="flex w-[80%] flex-col">
                                             <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black">Know Your Obligations</h2>
                                             <p className="text-justify text-black">
-                                                This section contains information about the obligations placed on organisations under data protection law.
+                                            This section contains information about the obligations placed on organisations under data protection Authories. 
                                             </p>
                                         </div>
                                     </div>
@@ -65,17 +65,14 @@ const forOrg = () => {
                                         <div className="flex w-[80%] flex-col">
                                             <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black">What do you need to know about data</h2>
                                             <p className="text-justify text-black">
-                                            This is a critical information that individuals should understand regarding data handling ,specially in The context of privacy.
-                                            this encompasses various aspects such as data handling,specially in storage,and sharing.
-
-                                           
+                                            This is a critical information that individuals should understand regarding data handling, especially in the context of privacy. 
                                             </p>
                                         </div>
                                     </div>
                                 </a>
                             </div>
                             <div className=" flex flex-row p-5">
-                                <a href="/RFEM" className="group flex h-[110%] w-full border-b-2 border-dotted border-gray/30">
+                                <a href="/RFEM" className="group flex h-[100%] w-full border-b-2 border-dotted border-gray/30">
                                     <div className="flex w-full flex-row items-start justify-between">
                                         <div className="flex h-12 w-12 items-center justify-center rounded-full bg-black transition duration-300 group-hover:rotate-180 group-hover:ease-in-out">
                                             <FaArrowRight style={{ color: 'white', fontSize: '18px' }} />
@@ -83,16 +80,14 @@ const forOrg = () => {
                                         <div className="flex w-[80%] flex-col">
                                             <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black">Direct Marketing: Opt-In and Opt-Out</h2>
                                             <p className="text-justify text-black">
-                                            When a data controller is involved in processing activities that are likely to result in high risk 
-                                            to the rights and freedoms of individuals due to the nature, scope, context, and purposes of the processing, 
-                                            specific actions must be taken to ensure compliance with data protection regulations.
+                                            involves emails, texts, calls, and mail. Clear Opt-In and Opt-Out options ensure privacy and legal compliance.
                                             </p>
                                         </div>
                                     </div>
                                 </a>
                             </div>
                             <div className=" flex flex-row p-5">
-                                <a href="/codeOfCondect" className="group flex h-[110%] w-full border-b-2 border-dotted border-gray/30 ">
+                                <a href="/codeOfCondect" className="group flex h-[100%] w-full border-b-2 border-dotted border-gray/30 ">
                                     <div className="flex w-full flex-row items-start justify-between">
                                         <div className="flex h-12 w-12 items-center justify-center rounded-full bg-black transition duration-300 group-hover:rotate-180 group-hover:ease-in-out">
                                             <FaArrowRight style={{ color: 'white', fontSize: '18px' }} />
@@ -101,31 +96,31 @@ const forOrg = () => {
                                             <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black">Code of Conduct & Registration</h2>
                                             <p className="text-justify text-black">
                                                 {' '}
-                                                This Code of Conduct provides guidelines for Data Controllers and Data Processors to ensure the protection
+                                                mandates lawful data processing, registration with the authority, and regular public updates.
                                             </p>
                                         </div>
                                     </div>
                                 </a>
                             </div>
                             <div className=" flex flex-row p-5">
-                                <a href="/education" className="group flex h-[110%] w-full border-b-2 border-dotted border-gray/30 ">
+                                <a href="/education" className="group flex h-[100%] w-full border-b-2 border-dotted border-gray/30 ">
                                     <div className="flex w-full flex-row items-start justify-between">
                                         <div className="flex h-12 w-12 items-center justify-center rounded-full bg-black transition duration-300 group-hover:rotate-180 group-hover:ease-in-out">
                                             <FaArrowRight style={{ color: 'white', fontSize: '18px' }} />
                                         </div>
                                         <div className="flex w-[80%] flex-col">
-                                            <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black">Education of Data Protection and Privacy</h2>
+                                            <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black">Education</h2>
                                             <p className="text-justify text-black">
                                                 {' '}
                                                 Educational institutions handle a vast amount of personal data related to students, staff, and faculty. 
-                                                Ensuring the protection and privacy of this data is critical.
+                                               
                                             </p>
                                         </div>
                                     </div>
                                 </a>
                             </div>
-                            <div className=" flex flex-row border-b-2 border-dotted border-gray/30 p-5">
-                                <a href="/health" className="group flex w-full">
+                            <div className=" flex flex-row p-5">
+                            <a href="/education" className="group flex h-[100%] w-full border-b-2 border-dotted border-gray/30 ">
                                     <div className="flex w-full flex-row items-start justify-between">
                                         <div className="flex h-12 w-12 items-center justify-center rounded-full bg-black transition duration-300 group-hover:rotate-180 group-hover:ease-in-out">
                                             <FaArrowRight style={{ color: 'white', fontSize: '18px' }} />
@@ -140,14 +135,14 @@ const forOrg = () => {
                                     </div>
                                 </a>
                             </div>
-                            <div className=" flex flex-row border-b-2 border-dotted border-gray/30 p-5">
-                                <a href="/banking" className="group flex w-full">
+                            <div className=" flex flex-row p-5">
+                            <a href="/banking" className="group flex h-[100%] w-full border-b-2 border-dotted border-gray/30 ">
                                     <div className="flex w-full flex-row items-start justify-between">
                                         <div className="flex h-12 w-12 items-center justify-center rounded-full bg-black transition duration-300 group-hover:rotate-180 group-hover:ease-in-out">
                                             <FaArrowRight style={{ color: 'white', fontSize: '18px' }} />
                                         </div>
                                         <div className="flex w-[80%] flex-col">
-                                            <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black"> Banking: Data Security and Compliance</h2>
+                                            <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black"> Banking and Finance</h2>
                                             <p className="text-justify text-black">
                                             Healthcare providers must prioritize the confidentiality and security of patient data 
                                             to maintain trust and comply with legal requirements.
@@ -155,7 +150,8 @@ const forOrg = () => {
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                                </div>
+                            <div className=" flex flex-row p-5">
                             <div className=" flex flex-row border-b-2 border-dotted border-gray/30 p-5">
                                 <a href="/DRE" className="group flex w-full">
                                     <div className="flex w-full flex-row items-start justify-between">
@@ -174,8 +170,9 @@ const forOrg = () => {
                                     </div>
                                 </a>
                             </div>
-                            <div className=" flex flex-row border-b-2 border-dotted border-gray/30 p-5">
-                                <a href="/telecommunications" className="group flex w-full">
+                            </div>
+                            <div className=" flex flex-row p-5">
+                            <a href="/telecommunications" className="group flex h-[100%] w-full border-b-2 border-dotted border-gray/30 ">
                                     <div className="flex w-full flex-row items-start justify-between">
                                         <div className="flex h-12 w-12 items-center justify-center rounded-full bg-black transition duration-300 group-hover:rotate-180 group-hover:ease-in-out">
                                             <FaArrowRight style={{ color: 'white', fontSize: '18px' }} />
@@ -213,8 +210,7 @@ const forOrg = () => {
                                         <div className="flex w-[80%] flex-col">
                                             <h2 className="text-[20px] font-extrabold text-primary group-hover:text-black">Compliance Checklist for Data Protection & Risk Management</h2>
                                             <p className="text-justify text-black">
-                                                When a data controller is involved in processing activities that are likely to result in high risk to the rights
-                                                and freedoms of individuals due to the nature,
+                                            ensures data law compliance with policy, inventory, consent, rights, security, audits, training, and breach response.
                                             </p>
                                         </div>
                                     </div>
