@@ -39,7 +39,10 @@ const Eservices = () => {
                                 </div>
                                 <div className="border-t-2 border-[#BBC0D0]/50 pt-3"></div>
                                 <ul className="mb-10 group-hover:text-white">
-                                    <div></div>
+                                    <div>
+                                        {' '}
+                                        <img src="" alt="" />
+                                    </div>
                                     <li className="flex">
                                         <p className="text-[18px] text-black">
                                             This registration form is for the data controllers and data processors, and this document is used by Data Protection
@@ -69,6 +72,10 @@ const Eservices = () => {
                                 </div>
                                 <div className="border-t-2 border-[#BBC0D0]/50 pt-3"></div>
                                 <ul className="mb-10 group-hover:text-white">
+                                    <div>
+                                        {' '}
+                                        <img src="" alt="" />
+                                    </div>
                                     <li className="flex">
                                         <p className="text-[18px] text-black">
                                             The complaint handling form is a formal mechanism that allows individuals to report concerns or lodge complaints
@@ -98,6 +105,10 @@ const Eservices = () => {
                                 </div>
                                 <div className="border-t-2 border-[#BBC0D0]/50 pt-3"></div>
                                 <ul className="mb-10 group-hover:text-white">
+                                    <div>
+                                        {' '}
+                                        <img src="" alt="" />
+                                    </div>
                                     <li className="flex">
                                         <p className="text-[18px] text-black">
                                             This Data Breach Report Form is a standardized document used to notify the authority about a data breach incident.{' '}
@@ -128,6 +139,10 @@ const Eservices = () => {
                                 </div>
                                 <div className="mt-auto border-t-2 border-[#BBC0D0]/50 pt-3"></div>
                                 <ul className="mb-10 group-hover:text-white">
+                                    <div>
+                                        {' '}
+                                        <img src="" alt="" />
+                                    </div>
                                     <li className="flex">
                                         <p className="text-[18px] text-black">
                                             This Form is a formal application used by individuals who wish to be certified or recognized as Data Protection

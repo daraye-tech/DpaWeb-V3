@@ -107,6 +107,10 @@ const Consulting = () => {
                                 <h3 className="text-[22px] font-black text-white dark:text-white">DATA CONTROLLERS AND DATA PROCCESORS</h3>
                             </div>
                             <ul className=" mb-6 group-hover:text-white">
+                                <div>
+                                    {' '}
+                                    <img src="" alt="" />
+                                </div>
                                 <li className="flex">
                                     <p className="text-[18px] text-white">
                                         In data protection, a data controller is an entity that decides why and how personal data is processed, bearing the main
@@ -134,6 +138,10 @@ const Consulting = () => {
                                 <h3 className="text-[22px] font-black text-white  dark:text-white">DATA SUBJECTS</h3>
                             </div>
                             <ul className="group-hover:text-white">
+                                <div>
+                                    {' '}
+                                    <img src="" alt="" />
+                                </div>
                                 <li className="flex">
                                     <p className="text-[18px] text-white">
                                         People whose personal information are collected, stored and processed are called data subjects. <br /> Know your rights
