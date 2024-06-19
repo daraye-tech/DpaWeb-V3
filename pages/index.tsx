@@ -134,7 +134,6 @@ const Consulting = () => {
                                 <h3 className="text-[22px] font-black text-white  dark:text-white">DATA SUBJECTS</h3>
                             </div>
                             <ul className="group-hover:text-white">
-                                <div></div>
                                 <li className="flex">
                                     <p className="text-[18px] text-white">
                                         People whose personal information are collected, stored and processed are called data subjects. <br /> Know your rights
