@@ -52,4 +52,3 @@ jobs:
               with:
                   app-name: 'DpaWeb'
                   images: '${{ secrets.DOCKER_HUB_USERNAME }}/dpaweb:latest'
-                  
