@@ -12,3 +12,4 @@ spec:
   selector:
     app: next-js-app
   type: ClusterIP
+
