@@ -1,0 +1,8 @@
+.next/
+dist/
+node_modules/
+public/
+**/*.d.ts
+# content-heavy static pages you don't want to lint at all:
+pages/about-us.tsx
+components/ContactUs.tsx
