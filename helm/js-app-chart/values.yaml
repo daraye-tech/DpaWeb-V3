@@ -8,7 +8,7 @@ image:
   repository: daraye/dpa
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1"
+  tag: "17232688400"
 
 ingress:
   enabled: false
